@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá eu sou o Renato Golino, formado em Ciências Social Aplicada e iniciante na área de Programação!!! 👋
 
 <!--
 **rgolino/rgolino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
