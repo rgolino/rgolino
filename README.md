@@ -1,4 +1,4 @@
-## Olá eu sou o Renato Golino, formado em Ciências Social Aplicada e iniciante na área de Programação!!! 👋
+## Olá eu sou o Renato Golino, bacharel em Ciência Contábeis e iniciante na área de Programação!!! 👋
 
 <div align="center">
   <a href="https://github.com/rgolino">
