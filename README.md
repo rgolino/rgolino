@@ -1,4 +1,4 @@
-## Olá eu sou o Renato Golino, bacharel em Ciência Contábeis e iniciante na área de  Data Science!!!!
+## Olá sou o Renato Golino, bacharel em Ciência Contábeis e iniciante na área de  Data Science!!!!
 
 <div align="center">
   <a href="https://github.com/rgolino">
