@@ -1,4 +1,5 @@
 ## Olá sou o Renato, iniciante na área de  Data Science!!!!
+![renatogolino_cientistadedados_analistadenegocios_mercadofinanceiro](https://github.com/rgolino/rgolino/assets/107083534/7db41b96-b512-4ebf-82f9-95aeb3f483e8)
 
 
 
