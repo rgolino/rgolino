@@ -2,6 +2,8 @@
 
 ## Olá sou o Renato, iniciante na área de  Data Science!!!!
 
+Bacharel em Ciências Contábeis e apaixonado pela área de tecnologia, busco me aprimorar dia a dia com o objetivo me tornar um Data Science.
+
 <div align="center">
   <a href="https://github.com/rgolino">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=rgolino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
