@@ -1,5 +1,8 @@
 ## Olá sou o Renato Golino, bacharel em Ciência Contábeis e iniciante na área de  Data Science!!!!
 
+
+Formado em Ciências Contábeis
+
 <div align="center">
   <a href="https://github.com/rgolino">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=rgolino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
