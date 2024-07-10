@@ -11,7 +11,8 @@ Bacharel em Ciências Contábeis e apaixonado pela área de tecnologia, busco me
 </div>
 
 <div style="display: inline_block"><br>
-
+  
+##
 ### Estou Aprendendo:
 
   <img align="center" alt="rgolino-Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -24,6 +25,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original
 </div>
 
 <div style="display: inline_block"><br>
+  
 ### Contatos: 
 <div> 
   <a href="https://www.linkedin.com/in/renato-golino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -31,6 +33,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original
   <a href="https://www.youtube.com/channel/UCoNX4pL529lfsgJnLiyvVGg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/renato.golino/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>  
+
 <div style="display: inline_block"><br>
 
 ### Meus Projetos em curso:
