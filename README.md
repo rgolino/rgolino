@@ -34,7 +34,7 @@ Bacharel em Ciências Contábeis atuando a mais de 15 anos na área contábil e 
   <img align="center" alt="rgolino-pycharm" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
   <img align="center" alt="rgolino-Vscode" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="rgolino-Jupyter" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-  <img align="center" alt="rgolino-google-col" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google-col/google-col-original.svg" />
+  <img align="center" alt="rgolino-google-col" height="35" width="45" src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" />
   <img align="center" alt="rgolino-Xcode" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" /> 
   <img align="center" alt="rgolino-PowerBI" height="45" width="45" src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" /> 
   <img align="center" alt="rgolino-Tableau" height="40" width="40" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" /> 
