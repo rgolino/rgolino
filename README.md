@@ -27,7 +27,7 @@ Bacharel em Ciências Contábeis atuando a mais de 15 anos na área contábil e 
   <img align="center" alt="rgolino-anaconda" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
   <img align="center" alt="rgolino-Xcode" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" /> 
 
-  <img align="center" alt="Tableau" height="35" width="105" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" /> 
+  <img align="center" alt="Tableau" height="35" width="105" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo&logoColor=white" /> 
 
  
 
