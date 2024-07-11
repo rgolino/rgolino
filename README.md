@@ -1,13 +1,14 @@
 ![renatogolino_cientistadedados_analistadenegocios_mercadofinanceiro](https://github.com/rgolino/rgolino/assets/107083534/7db41b96-b512-4ebf-82f9-95aeb3f483e8)
 
-<div> 
-  <a href="https://www.linkedin.com/in/renato-golino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:renatogolino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UCoNX4pL529lfsgJnLiyvVGg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+      <div> 
+          <a href="https://www.linkedin.com/in/renato-golino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+          <a href = "mailto:renatogolino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+          <a href="https://www.youtube.com/channel/UCoNX4pL529lfsgJnLiyvVGg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/renato.golino/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-</div>  
-###
+      </div>  
+##
+
 Olá sou o **Renato**, iniciante na área de  Data Science!!!!
 
 Bacharel em Ciências Contábeis atuando a mais de 15 anos na área contábil e financeira e sempre apaixonado pela área de tecnologia. Estou em busca de aprender e me aprimorar os conhecimentos necessários para atuar como ciêntista de dados.
