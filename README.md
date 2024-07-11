@@ -1,8 +1,11 @@
 ![renatogolino_cientistadedados_analistadenegocios_mercadofinanceiro](https://github.com/rgolino/rgolino/assets/107083534/7db41b96-b512-4ebf-82f9-95aeb3f483e8)
 
-## Olá sou o Renato, iniciante na área de  Data Science!!!!
+Olá sou o Renato, iniciante na área de  Data Science!!!!
 
 Bacharel em Ciências Contábeis e apaixonado pela área de tecnologia, busco me aprimorar dia a dia com o objetivo me tornar um Data Science.
+
+##
+
 <div style="display: inline_block"><br>
 <div align="center">
   <a href="https://github.com/rgolino">
