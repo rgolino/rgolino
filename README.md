@@ -1,8 +1,7 @@
 ![renatogolino_cientistadedados_analistadenegocios_mercadofinanceiro](https://github.com/rgolino/rgolino/assets/107083534/7db41b96-b512-4ebf-82f9-95aeb3f483e8)
 
 Olá sou o Renato, iniciante na área de  Data Science!!!!
-
-Bacharel em Ciências Contábeis e apaixonado pela área de tecnologia, busco me aprimorar dia a dia com o objetivo me tornar um Data Science.
+Bacharel em Ciências Contábeis atuando a mais de 15 anos na área contábil e financeira e sempre apaixonado pela área de tecnologia. Estou em busca de aprender e me aprimorar os conhecimentos necessários para atuar como ciêntista de dados.
 
 ##
 
@@ -26,12 +25,10 @@ Bacharel em Ciências Contábeis e apaixonado pela área de tecnologia, busco me
   <img align="center" alt="rgolino-Jupyter" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
   <img align="center" alt="rgolino-anaconda" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
   <img align="center" alt="rgolino-Xcode" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" /> 
-            
-          
+                     
 </div>
 
-##
-  
+##  
 ### Contatos: 
 <div> 
   <a href="https://www.linkedin.com/in/renato-golino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
