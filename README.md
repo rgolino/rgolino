@@ -19,7 +19,7 @@ Bacharel em Ciências Contábeis e apaixonado pela área de tecnologia, busco me
   <img align="center" alt="rgolino-Sql" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
   <img align="center" alt="rgolino-Vscode" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="rgolino-Jupyter" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-  <img align="center" alt="rgolino-threedsmax" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+  <img align="center" alt="rgolino-anaconda" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
   <img align="center" alt="rgolino-Xcode" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" /> 
   
   <img align="center" alt="rgolino-Jupyter" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
