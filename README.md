@@ -26,7 +26,13 @@ Bacharel em Ciências Contábeis atuando a mais de 15 anos na área contábil e 
   <img align="center" alt="rgolino-Jupyter" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
   <img align="center" alt="rgolino-anaconda" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
   <img align="center" alt="rgolino-Xcode" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" /> 
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAABH0lEQVR4nO2XvQ2DMBBGbwHvkSY70GUIKOhpqIAmE6SAOqFIJglVZskWF1kKkgt+fNhgjO9JnyxZFPd8trABmGHK+hFVTYtyBB8pWcDRqvcp6nsut5Ac1XnYM1XT4lycFohPQJk1OpBebygDLgVMDnHKAhoE1QEqKQsMrDQ1QFhpaiAogTGCOgPf4ox9dL5PWUAD7sAWW6ic+IO66ECcvaMk61COxgIUqAJjhCFQLrzHq0UuDYwUrST/C+TqvJWX1FoCSdbhXI7VAe/PQDACn9MJZdYQEJcXyhgLTOFCwCosMIHgDljeQlSEzQ70hVJDKZQaCErA+y00RlACMfEPKlhAg8N3IDa4x4stBOYgv6T2htFLam9Yvce7gAUY8IMfuT9B6eZNKYoAAAAASUVORK5CYII=">
+
+<img align="center" alt="rgolino-Xcode" height="35" width="45" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
+" /> 
+
+ 
+
+
                
 </div>
 
