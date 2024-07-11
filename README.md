@@ -41,5 +41,5 @@ Bacharel em Ciências Contábeis atuando a mais de 15 anos na área contábil e 
 
 ##
 
-### Meus Projetos em curso:
+### Meus Projetos:
 
