@@ -30,7 +30,7 @@ Bacharel em Ciências Contábeis e apaixonado pela área de tecnologia, busco me
           
 </div>
 
-<div style="display: inline_block"><br>
+##
   
 ### Contatos: 
 <div> 
