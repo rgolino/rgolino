@@ -44,6 +44,7 @@ Bacharel em Ciências Contábeis atuando a mais de 15 anos na área contábil e 
 
 ### Meus Projetos:
 
-* [Análise de Dados do Airbnd]("https://github.com/rgolino/Data_Analytic_Airbnb/blob/main/README.md")
+* [Análise de Dados do Airbnd]
+* [Covid 19 no Mundo]
 
 
