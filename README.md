@@ -13,7 +13,7 @@
 Olá sou o **Renato**, entusiata na área de Data Science!!!!
 
 Bacharel em Ciências Contábeis e Pós graduado em Auditoria Contábil, com mais de 15 anos de experiência nas áreas financeiras e contabilidade onde adquiri habilidade para análise, manipulação e modelação de dados, com o objetivo de produdir informações consolidadadas para a tomada de decisão e ou implementação de novos projetos.
-Entusiasta por tecnologia, busco aprender um pouco de programação como Python, R e SQL, além de aprimorar os conhecimentos de ferramentas de visualização de dados como Power BI e Tableau.
+Entusiasta por tecnologia, estou sempre buscando aprender um pouco de programação como Python, R e SQL, além de aprimorar os conhecimentos de ferramentas de visualização de dados como Power BI e Tableau.
 Em breve estarei concluindo minha Pós Graduação em Data Science e tenho a certeza a aplicação de todo esses novos conhecimentos que estou adquirindo unidos com minha especiências proprocionará grandes resultados.
 
 
