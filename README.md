@@ -10,39 +10,39 @@
   
 ##
 
-Olá sou o **Renato**, iniciante na área de  Data Science!!!!
+Olá sou o **Renato**, entusiata na área de Data Science!!!!
 
-Bacharel em Ciências Contábeis atuando a mais de 15 anos na área contábil e financeira e sempre apaixonado pela área de tecnologia. Estou em busca de aprender e me aprimorar os conhecimentos necessários para atuar como ciêntista de dados.
+Bacharel em Ciências Contábeis e Pós graduado em Auditoria Contábil, com mais de 15 anos de experiência nas áreas financeiras e contabilidade onde adquiri habilidade para análise, manipulação e modelação de dados, com o objetivo de produdir informações consolidadadas para a tomada de decisão e ou implementação de novos projetos.
+Entusiasta por tecnologia, busco aprender um pouco de programação como Python, R e SQL, além de aprimorar os conhecimentos de ferramentas de visualização de dados como Power BI e Tableau.
+Em breve estarei concluindo minha Pós Graduação em Data Science e tenho a certeza a aplicação de todo esses novos conhecimentos que estou adquirindo unidos com minha especiências proprocionará grandes resultados.
+
 
 ##
 
 <div style="display: inline_block"><br>
 <div align="center">
   <a href="https://github.com/rgolino">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=rgolino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgolino&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
+  <img height="105em" src="https://github-readme-stats.vercel.app/api?username=rgolino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="105em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgolino&layout=compact&langs_count=7&theme=dracula"/></div>   
 <div style="display: inline_block"><br>
-  
+
 ##
-### Estou Aprendendo:
-  <img align="center" alt="rgolino-Tableau" height="40" width="40" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" />
-  <img align="center" alt="rgolino-PowerBI" height="45" width="45" src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" />
-  <img align="center" alt="rgolino-Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="rgolino-r" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-  <img align="center" alt="rgolino-sqlite" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-  <img align="center" alt="rgolino-pycharm" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-   <img align="center" alt="rgolino-google-col" height="40" width="45" src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" />
-  <img align="center" alt="rgolino-Vscode" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="rgolino-Jupyter" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-  <img align="center" alt="rgolino-Xcode" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" /> 
- 
+##### Estou Aprendendo:
+  <img align="center" alt="rgolino-Tableau" height="30" width="30" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" />
+  <img align="center" alt="rgolino-PowerBI" height="30" width="30" src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" />
+  <img align="center" alt="rgolino-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="rgolino-r" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+  <img align="center" alt="rgolino-sqlite" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+  <img align="center" alt="rgolino-pycharm" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+   <img align="center" alt="rgolino-google-col" height="30" width="30" src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" />
+  <img align="center" alt="rgolino-Vscode" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="rgolino-Jupyter" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+  <img align="center" alt="rgolino-Xcode" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" /> 
 </div>
 
 ##
 
-### Meus Projetos:
+#### Meus Projetos:
 
 * [Análise de Dados do Airbnd]
 * [Covid 19 no Mundo]
