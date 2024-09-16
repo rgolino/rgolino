@@ -44,7 +44,7 @@ Em breve estarei concluindo minha Pós Graduação em Data Science e tenho a cer
 
 #### Meus Projetos:
 
-* [Análise de Dados do Airbnd]
-* [Covid 19 no Mundo]
+* [Análise de Dados do Airbnd](https://github.com/rgolino/Data_Analytic_Airbnb/blob/main/README.md)
+* [Covid 19 no Mundo](https://github.com/rgolino/Estudo_de_Caso_Covid-19/blob/main/README.md)
 
 
