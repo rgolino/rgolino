@@ -13,8 +13,8 @@
 Olá sou o **Renato**, entusiata na área de Data Science!!!!
 
 Bacharel em Ciências Contábeis e Pós graduado em Auditoria Contábil, com mais de 15 anos de experiência nas áreas financeiras e contabilidade onde adquiri habilidade para análise, manipulação e modelação de dados, com o objetivo de produdir informações consolidadadas para a tomada de decisão e ou implementação de novos projetos.
-Entusiasta por tecnologia, estou sempre buscando aprender um pouco de programação como Python, R e SQL, além de aprimorar os conhecimentos de ferramentas de visualização de dados como Power BI e Tableau.
-Em breve estarei concluindo minha Pós Graduação em Data Science e tenho a certeza a aplicação de todo esses novos conhecimentos que estou adquirindo unidos com minha especiências proprocionará grandes resultados.
+Entusiasta por tecnologia, estou sempre buscando aprender um pouco de programação e análise de dados com Python, R e SQL, além de aprimorar os conhecimentos de ferramentas de visualização de dados como Power BI e Tableau.
+Estou em fase de conclusão de minha Pós Graduação em Data Science onde estou aprimorando meus conhecimentos e análise de negócios baseado em dados, bem como aprendendo a utilizar de LLMs para implementação de automações. Tenho a certeza a que todo esses novos conhecimentos que estou adquirindo unidos com minha especiências proprocionará grandes resultados.
 
 
 ##
@@ -28,10 +28,14 @@ Em breve estarei concluindo minha Pós Graduação em Data Science e tenho a cer
 
 ##
 ##### Estou Aprendendo:
-  <img align="center" alt="rgolino-Tableau" height="30" width="30" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" />
-  <img align="center" alt="rgolino-PowerBI" height="30" width="30" src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" />
-  <img align="center" alt="rgolino-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="rgolino-r" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+  <img align="center" alt="Tableau" height="30" width="30" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" />
+  <img align="center" alt="PowerBI" height="30" width="30" src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" />
+  <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="r" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+  <img align="center" alt="sql" height="25" width="30" src="https://img.icons8.com/?size=100&id=RO6Tm3NdrSGE&format=png&color=000000" />
+  
+##### Plataformas que estou usando:
+  
   <img align="center" alt="rgolino-sqlite" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
   <img align="center" alt="rgolino-pycharm" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
    <img align="center" alt="rgolino-google-col" height="30" width="30" src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" />
