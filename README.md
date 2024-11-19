@@ -52,5 +52,6 @@ Estou em fase de conclusão de minha Pós Graduação em Data Science onde estou
 * [Análise de Dados do Airbnd](https://github.com/rgolino/Data_Analytic_Airbnb/blob/main/README.md)
 * [Covid 19 no Mundo](https://github.com/rgolino/Estudo_de_Caso_Covid-19/blob/main/README.md)
 * [Fraude Cartão de Crédito](https://github.com/rgolino/Deteccao_Fraude_Cartao_de_Credito/blob/main/README.md)
+* [Previsão de Rotatividade de Clientes](https://github.com/rgolino/Previsao_Rotatividade/blob/main/README.md)
 
 
