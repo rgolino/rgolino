@@ -14,7 +14,7 @@ Olá sou o **Renato**, entusiata na área de Data Science!!!!
 
 Bacharel em Ciências Contábeis e Pós graduado em Auditoria Contábil, com mais de 15 anos de experiência nas áreas financeiras e contabilidade onde adquiri habilidade para análise, manipulação e modelação de dados, com o objetivo de produdir informações consolidadadas para a tomada de decisão e ou implementação de novos projetos.
 Entusiasta por tecnologia, estou sempre buscando aprender um pouco de programação e análise de dados com Python, R e SQL, além de aprimorar os conhecimentos de ferramentas de visualização de dados como Power BI e Tableau.
-Estou em fase de conclusão de minha Pós Graduação em Data Science onde estou aprimorando meus conhecimentos e análise de negócios baseado em dados, bem como aprendendo a utilizar de LLMs para implementação de automações. Tenho a certeza a que todo esses novos conhecimentos que estou adquirindo unidos com minha especiências proprocionará grandes resultados.
+Estou em fase de conclusão de minha Pós Graduação em Data Science onde estou aprimorando meus conhecimentos e análise de negócios baseado em dados, bem como aprendendo a utilizar de LLMs para implementação de automações. Tenho a certeza que todo esses novos conhecimentos que estou adquirindo unidos com minha especiências profissinal proprocionará grandes resultados.
 
 
 ##
@@ -37,12 +37,12 @@ Estou em fase de conclusão de minha Pós Graduação em Data Science onde estou
   
 ##### Plataformas que estou usando:
   
-  <img align="center" alt="rgolino-sqlite" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
   <img align="center" alt="rgolino-pycharm" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
    <img align="center" alt="rgolino-google-col" height="30" width="30" src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" />
   <img align="center" alt="rgolino-Vscode" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="rgolino-Jupyter" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-  <img align="center" alt="rgolino-Xcode" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" /> 
+  <img align="center" alt="rgolino-Xcode" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
+  <img align="center" alt="rgolino-postrgreesql" width="35" height="35" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png" alt="external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo"/>
 </div>
 
 ##
