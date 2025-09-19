@@ -24,13 +24,18 @@ Sou **Analista de Dados em transição da área de Controladoria e Finanças**, 
 
 ## 🛠️ Tecnologias & Ferramentas
 <div>
+  <img align="center" alt="Excel" height="40" width="40" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"/>
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="SQL" height="40" width="40" src="https://img.icons8.com/?size=100&id=RO6Tm3NdrSGE&format=png&color=000000"/>
+  <img align="center" alt="R" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
   <img align="center" alt="PowerBI" height="40" width="40" src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000"/>
   <img align="center" alt="Tableau" height="40" width="40" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000"/>
-  <img align="center" alt="R" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
-  <img align="center" alt="Excel" height="40" width="40" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"/>
+  <img align="center" alt="Looker" height="40" width="40" src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" />
   <img align="center" alt="PostgreSQL" height="40" width="40" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+  <img align="center" alt="Pycharm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+   <img align="center" alt="Google-col" height="40" width="40" src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" />
+  <img align="center" alt="Vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
 </div>
 
 ---
