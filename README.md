@@ -56,7 +56,7 @@ Modelo preditivo para **redução de churn** em clientes de serviços financeiro
 ---
 
 ## 🎓 Formação & Certificações
-- Pós-Graduação em **Data Science** – Faculdade de Governança e Engenharia de SP (em andamento)  
+- Pós-Graduação em **Data Science** – Faculdade de Governança e Engenharia de SP  
 - Pós-Graduação em **Auditoria Contábil** – Integrale FECAP  
 - Bacharelado em **Ciências Contábeis** – IESB Bauru  
 
